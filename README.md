@@ -1,4 +1,4 @@
-# rootMovement
+# robotMovementOnXY-Plane
 A team of young engineers have built a robot
 The robot can travel on a rectangular plane :
 1. The rectangular plane is represented by a X-Y plane with bottom left as (0,0) and top right as
